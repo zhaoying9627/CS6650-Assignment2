@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RMQConsumer1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RMQConsumer1_jar</output-path>
+    <root id="archive" name="RMQConsumer1.jar">
+      <element id="module-output" name="RMQConsumer1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/reload4j/reload4j/1.2.19/reload4j-1.2.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-reload4j/1.7.36/slf4j-reload4j-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.16.0/amqp-client-5.16.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
